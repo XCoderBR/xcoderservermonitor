@@ -164,7 +164,7 @@ class UI_Handler:
             event.ignore()
             self.MainWindow.hide()
             # self.tray_icon.showMessage(
-            #     "Mouse Mover",
+            #     "XCoder Server Monitor",
             #     "Minimized to tray",
             #     QSystemTrayIcon.Information,
             #     2000
